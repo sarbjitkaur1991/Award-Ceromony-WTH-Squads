@@ -1,0 +1,59 @@
+body{
+   background-image:url("https://media1.giphy.com/media/3CZ3cqAHhaa21p45qX/giphy.webp?cid=ecf05e478ca826b852cc4812e6f19df13ef838f2b673e812&rid=giphy.webp");
+    border:ridge 20px red;
+    border-radius:00px;
+   
+}
+h1{
+    font:500px;
+    color:yellow;
+    border:20px;
+    background-color:red;
+    text-align:center;
+}
+.awards{
+    width:195px;
+    border-radius:20px;
+   
+}
+h3{
+      font:500px;
+    color:yellow;
+    border:20px;
+    background-color:red;
+    text-align:center;
+}
+.main{
+    width:150px;
+    border:dotted 2px yellow;
+    
+    
+    
+}
+.kaur{
+    text-align:center;
+    border:solid 5px yellow;
+    width:220px;
+    border-radius:30px;
+    
+    
+}
+h2{
+    color:blue;
+    background-color:yellow;
+    font-family: 'Caveat', cursive;
+    text-align:center;
+    border:dotted 5px red;
+    
+}
+
+.last{
+   
+    height:390px;
+    width:387px;
+    border:solid 5px gold;
+}
+    
+
+    
+    
